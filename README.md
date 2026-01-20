@@ -3,7 +3,7 @@ HistoFit – Statistical Distribution Fitting Tool
 Description
 HistoFit is a Python/Streamlit application that analyzes experimental data by fitting statistical distributions to histograms. The tool allows users to visualize datasets and extract distribution parameters for lab and research analysis.
 
-Features
+Features:
 
 Upload numerical datasets
 
@@ -15,7 +15,7 @@ Visualize fitted curves
 
 Extract mean and variance
 
-Technologies
+Technologies:
 
 Python
 
@@ -27,6 +27,7 @@ Matplotlib
 
 Streamlit
 
-Purpose
+Purpose:
+
 Built to simplify analysis of experimental data without needing MATLAB.
 
